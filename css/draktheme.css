@@ -1,0 +1,39 @@
+body {
+    color: #eee;
+    background-color: #4a525a;
+}
+
+a {
+    color: #eee;
+}
+
+a:hover {
+    background-color: rgb(252, 238, 231) !important;
+}
+
+p code,
+li code {
+    background-color: rgb(24, 22, 22);
+    color: #eee;
+}
+
+content img {
+    box-shadow: #ddd 1px 1px 5px;
+}
+
+.nav a:hover {
+    color: #534847;
+    background-color: rgb(110, 110, 103, 0.5);
+}
+
+h1,
+h2,
+h3,
+h4 {
+    color: #eee;
+}
+
+.paginator .current-page {
+    background: #4a525a;
+}
+
