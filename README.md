@@ -1,8 +1,14 @@
 ## DotsTheme
 
+一款极简主题，倘若你更想关注内容其本身，欢迎常识本主题，部分功能开箱即用，其他的待支持功能，等我慢慢更新吧
+
 ### Preview
 
+#### [View dotstheme Boilerplate &rarr;](https://tiickmao.com/dotstheme/)
+
 ![1](https://ae01.alicdn.com/kf/H74dae26854d14a7db7dbc7e5fd2b3505t.jpg)
+
+![2](https://ae01.alicdn.com/kf/H4c67c510a50f470496f85171246c2164z.jpg)
 
 ### 主题特性
 
