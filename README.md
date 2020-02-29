@@ -4,11 +4,11 @@
 
 ### Preview
 
-#### [View dotstheme Boilerplate &rarr;](https://tiickmao.com/dotstheme/)
+#### [View dotstheme Boilerplate &rarr;](https://tickmao.com/dotstheme/)
 
 ![1](https://ae01.alicdn.com/kf/H74dae26854d14a7db7dbc7e5fd2b3505t.jpg)
 
-![2](https://ae01.alicdn.com/kf/H4c67c510a50f470496f85171246c2164z.jpg)
+![2](https://ae01.alicdn.com/kf/H292d22c5bce7462690840b5d7671af56Q.jpg)
 
 ### 主题特性
 
