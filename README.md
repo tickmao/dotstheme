@@ -1,6 +1,6 @@
 ## DotsTheme
 
-一款极简主题，倘若你更想关注内容其本身，欢迎常识本主题，部分功能开箱即用，其他的待支持功能，等我慢慢更新吧
+一款极简 Jekyll 主题，倘若你更想关注内容其本身，欢迎尝试使用本主题，部分功能开箱即用，其他的待支持功能 （参照主题特性），等我后续慢慢更新吧……
 
 ### Preview
 
@@ -37,14 +37,12 @@ $ git clone https://github.com/tickmao/dotstheme.git
 
 首先在本地安装 `Jekyll` [详情请戳](https://www.jekyll.com.cn/docs/quickstart/)
 
-安装完成之后，使用命令 `jekyll -v` 查看 **jekyll版本号** ，若低于 `jekyll 4.x.x` 则需要升级至 `jekyll 4.x.x` 。
+安装完成之后，使用命令 `jekyll -v` 查看 jekyll 版本 ，若低于 `jekyll 4.x.x` 则尽量升级至 `jekyll 4.x.x`及以上 。
 
 使用 `gem install jekyll-paginate` 或 `sudo gem install jekyll-paginate` 安装Jekyll的分页插件。
 
 将源码 `clone` 到本地后，在终端进入 `dotstheme` 根目录，运行 `jekyll server` 或 `bundle exec jekyll serve` ，即可开启jekyll的服务。通过浏览器访问 [http://localhost:4000](http://localhost:4000) ，即可看到本地部署的 `dotstheme` 博客了。
 
-> warning！值得注意的地方：
->
 > ​	由于本主题是基于 `jekyll 4.0.0` 开发 ，jekyll的版本差异也许会导致相关显示效果的差异。详情请参考官方文档：[news](https://jekyllrb.com/news/)
 
 ### 说明文档
@@ -64,9 +62,7 @@ $ git clone https://github.com/tickmao/dotstheme.git
   - [统计信息](#统计信息)
 
 
-> ​	通用修改 `_config.yml` 文件，你便可以轻松搭建属于你自己的个人博客。
->
-> ​	一部分配置，默认已经是配置好的，你只需要修改下面列出的内容即可完成搭建。
+> ​	通用修改 `_config.yml` 文件，你便可以轻松搭建属于你自己的个人博客。一部分配置，默认已经是配置好的，你只需要修改下面列出的内容即可完成搭建。
 
 #### 关于博客
 
@@ -90,9 +86,9 @@ url: 'https://abc.github.io' # your host
 
 #### 写文章
 
-博客通过解析 `markdown` 文件来部署文章页面的，所以用户写文章只需要写一篇markdown，并放置在站点根目录下的 `_post` 文件夹即可。具体的markdown语法自行上网搜索学习，或使用markdown编辑器进行写作。推荐一款 markdown编辑器：[typora](https://www.typora.io) 。支持 windows 、mac OSX 、Linux 。`drafts`文件夹下为草稿，默认不展示。
+博客通过解析 `markdown` 文件来部署文章页面的，所以用户写文章只需要写一篇 markdown，并放置在站点根目录下的 `_post` 文件夹即可。具体的 markdown 语法自行上网搜索学习，或使用 markdown 编辑器进行写作。推荐一款 markdown 编辑器：[typora](https://www.typora.io) 。支持 windows 、mac OSX 、Linux 。`drafts`文件夹下为草稿，默认不展示。
 
-关于文章 YAML头信息：
+关于文章 YAML 头信息：
 
 ```yaml
 layout: post
@@ -118,14 +114,14 @@ description: ''
 
 ```yaml
 # nav 中文字符空格：&emsp;
-nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
+nav: # 最佳体验 五到八个标签
   首页: '/'
   归档: '/archive/'
   作品: '/project/'
   关于: '/colophon/'
   RSS: '/feed'
 ```
-默认全部展示，当然如果想要自己添加删减，按照格式调整下方即可，当然页面显示顺序位置有关。
+默认依据 `Page title` 全部展示，当然如果想要自己添加删减，按照格式调整即可。
 
 #### 分页
 
@@ -137,7 +133,7 @@ paginatepath: ['page:num']
 
 随个人爱好在，填写你需要的在首页最多显示多少篇博客的数字。
 
-本地部署的需要使用 `gem install jekyll-paginate` 或 `sudo gem install jekyll-paginate` 安装Jekyll的分页插件。
+本地部署的需要使用 `gem install jekyll-paginate` 或 `sudo gem install jekyll-paginate` 安装 Jekyll 的分页插件。
 
 #### 代码高亮主题
 
@@ -169,7 +165,7 @@ footer:
   since: 2020
 ```
 
-在footer.html 修改`rundate`的时间，用于页脚显示时间，可以根据自己的实际情况显示网站的运行时间。
+在 footer.html 修改`run_date`的时间，用于页脚显示时间，可以根据自己的实际情况显示网站的运行时间。
 
 #### 评论系统
 
@@ -177,7 +173,7 @@ footer:
 # disqus 评论
 disqus: false
 disqus_username: user-id  # disqus_username: 你的用户名
-# Gittalk评论 OAuth Application
+# Gittalk 评论 OAuth Application
 gittalk: false
 gittalk_owner: ''  # github用户名
 gittalk_admin: ''  # github用户名
@@ -187,15 +183,15 @@ client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
 # ​按申请第三方评论是获取的相关信息在配置文件中进行填写即可。
 ```
 
-出于显示样式与中国大陆网络环境考虑。更推荐 `gittalk`
+出于显示样式与中国大陆网络环境考虑。更推荐 `Gittalk`
 
 #### 统计信息
 
 ```yaml
-# 百度统计 在baidu-url里填写自己相关的url代码
+# 百度统计 在 baidu-url 里填写自己相关的 url 代码
 baidu: false
-baidu-url: '' #填写自己相关的url代码
-# 谷歌分析 在google-ID里填写自己在谷歌分析获得的追踪ID
+baidu-url: '' #填写自己相关的 url 代码
+# 谷歌分析 在 google-ID 里填写自己在谷歌分析获得的追踪ID
 google: false
 google-ID: '' #Format: UA-xxxxxx-xx
 ```
@@ -204,17 +200,18 @@ google-ID: '' #Format: UA-xxxxxx-xx
 
 ## 声明
 
-你可以自由的fork。如果你能将主题作者和 github 的地址保留在你的页面底部，我将非常感谢你。
-如果你喜欢我的这个博客模板，请在dotstheme.github.io这个repository点个赞——右上角star一下。
+你可以自由的 fork。如果你能将主题作者和 github 的地址保留在你的页面底部，我将非常感谢你。
 
-仅用于个人学习或使用，如有疑问请联系作者。E-mail：[lyle.lypm@gmail.com](mailto:lyle.lypm@gmail.com)
+如果你喜欢我的这个博客模板，请在 dotstheme.github.io 这个 repository 点个赞（右上角 star 一下）。
+
+主题仅用于个人学习或使用，如有疑问请联系作者。E-mail：[lyle.lypm@gmail.com](mailto:lyle.lypm@gmail.com)
 
 ## 参与我们
 
-如果有任何想法或需求，可以在 [issue](https://github.com/tickmao/dotstheme/issues) 中告诉我们，欢迎各种小伙伴踊跃留言。
+如果有任何想法或需求，可以在 [issue](https://github.com/tickmao/dotstheme/issues) 中告诉我，欢迎各种小伙伴踊跃留言。
 
 ## Author
 
-dotstheme © [Tickmao](https://www.tickmao.com), Released under the MIT License.
+DotsTheme ©[Tickmao](https://www.tickmao.com), Released under the MIT License.
 
 Blog @[Tickmao](https://www.tickmao.com) · GitHub @[Tickmao](https://github.com/tickmao) · Twitter @[Tickmao]
