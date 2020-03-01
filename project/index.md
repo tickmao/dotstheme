@@ -1,6 +1,7 @@
 ---
-title: Project
+title: "Project"
 layout: page
+description: "Software Projects,inclouding some slie porjects I had done"
 ---
 
 <!-- 个人项目介绍页面 -->

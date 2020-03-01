@@ -1,6 +1,7 @@
 ---
-title: Colophon
+title: "Colophon"
 layout: page
+description: "About this site"
 ---
 
 <!-- 站点介绍页面 -->
