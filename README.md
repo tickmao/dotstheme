@@ -4,7 +4,7 @@
 
 ### Preview
 
-#### [View dotstheme Boilerplate &rarr;](https://tickmao.com/dotstheme/)
+#### [View dotstheme Boilerplate &rarr;](https://www.tickmao.com/dotstheme/)
 
 ![1](https://ae01.alicdn.com/kf/H74dae26854d14a7db7dbc7e5fd2b3505t.jpg)
 
