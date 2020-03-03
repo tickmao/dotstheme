@@ -31,13 +31,12 @@ catalog:     true
 
 选择你产品所对标的对应竞品，找到他的非垃圾或营销用户，去聊聊他们觉得还需要改进的地方。有助于知道用户的哪些点还未被满足，而这正是你需要去解决的问题。
 
+In my 1×1 interview the Author try and get a few key things answered.for example:
 
-> In my 1×1 interview I try and get a few key things answered.
-
-- How did they find my game and me? – I ask this because I am curious as to what in my marketing is working or if there is some other place I should be concentrating.
-- How they bought it? What sale? Was it a bundle? Did a friend give it to them? – I ask this because it also helps me figure out the proper marketing channels.
--What their history of gaming is and what their favorite genres? What is currently your favorite game? – In all my Steam research I have found that people stick closely to a handful of genres. This question helps me understand what other games I should be looking out for as comparison and what potential new genres I should explore.
-- What is the next improvement I should make to 1 Screen Platformer? – I ask this question instead of asking “how do you like my game?” Because everyone is going to say “it’s fine.” But phrasing it this way ensures that they give me an honest and useful answer.
--What social media site is their favorite to use? – Again this helps me identify what social media channels to target. I say favorite because a lot of people sign up for all of them but only use 1 or 2.
-- What developers do you follow or discords are you part of? – This helps me know if there are any other devs to reach out to so we can potentially enter into a cross-promotion or co-marketing effort.
-- Where do you learn about new games? Streamers? News sites? – More information about marketing channels. Potential streamer partnerships.
+> - How did they find my game and me? – I ask this because I am curious as to what in my marketing is working or if there is some other place I should be concentrating.
+> - How they bought it? What sale? Was it a bundle? Did a friend give it to them? – I ask this because it also helps me figure out the proper marketing channels.
+> -What their history of gaming is and what their favorite genres? What is currently your favorite game? – In all my Steam research I have found that people stick closely to a handful of genres. This question helps me understand what other games I should be looking out for as comparison and what potential new genres I should explore.
+> - What is the next improvement I should make to 1 Screen Platformer? – I ask this question instead of asking “how do you like my game?” Because everyone is going to say “it’s fine.” But phrasing it this way ensures that they give me an honest and useful answer.
+> -What social media site is their favorite to use? – Again this helps me identify what social media channels to target. I say favorite because a lot of people sign up for all of them but only use 1 or 2.
+> - What developers do you follow or discords are you part of? – This helps me know if there are any other devs to reach out to so we can potentially enter into a cross-promotion or co-marketing effort.
+> - Where do you learn about new games? Streamers? News sites? – More information about marketing channels. Potential streamer partnerships.
