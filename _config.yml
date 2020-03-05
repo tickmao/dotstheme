@@ -24,12 +24,12 @@ email: lyle.lypm@gmail.com
 SEOTitle: ProductTour | Created by Tickmao
 description: # this means to ignore newlines until "baseurl:"
   关于产品与设计、体验、效率和学习成长 | Tickmao,Web & Mobile Lover,Product Designer,Software Enginee,UX Designer | 这里是 @Tickmao 的个人博客，我们所看到的世界有那么一点点不一样。
-baseurl: "/ProductTour" # the subpath of your site, e.g. /blog
+baseurl: "/dotstheme" # the subpath of your site, e.g. /blog
 url: "http://www.tickmao.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SNS settings
-# twitter_username: tick_puppet
-# github_username:  tickmao
+twitter_username: tick_puppet
+github_username:  tickmao
 
 # Analytics settings true开启，false关闭
 # 百度统计 在baidu-url里填写自己相关的url代码
@@ -42,7 +42,7 @@ google-ID: '' #Format: UA-xxxxxx-xx
 # 评论 最佳体验 在 Gittalk 之间二选一，true为开启，false为关闭
 # disqus 评论
 disqus: false
-# disqus_username: aronlyle  # disqus_username: 你的用户名
+disqus_username: aronlyle  # disqus_username: 你的用户名
 # Gittalk OAuth Application
 gittalk: false
 gittalk_owner: ''  # github用户名
