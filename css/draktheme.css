@@ -37,3 +37,13 @@ h4 {
     background: #4a525a;
 }
 
+
+@media (prefers-color-scheme: dark) {
+    :root {
+      --accent: #3493d1;
+      --main: #eee;
+      --light: #ececec;
+      --shadow: #ddd 1px 1px 5px;
+      --bg: #4a525a;
+    }
+  }
