@@ -24,8 +24,8 @@ email: lyle.lypm@gmail.com
 SEOTitle: ProductTour | Created by Tickmao
 description: # this means to ignore newlines until "baseurl:"
   关于产品与设计、体验、效率和学习成长 | Tickmao,Web & Mobile Lover,Product Designer,Software Enginee,UX Designer | 这里是 @Tickmao 的个人博客，我们所看到的世界有那么一点点不一样。
-baseurl: "/dotstheme" # the subpath of your site, e.g. /blog
-url: "http://www.tickmao.com" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "/dotstheme" # the subpath of your site, e.g. /blog
+url: "https://dotstheme.tickmao.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SNS settings
 twitter_username: tick_puppet
