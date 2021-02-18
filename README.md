@@ -4,7 +4,7 @@
 
 ### Preview
 
-#### [View dotstheme Boilerplate &rarr;](https://www.tickmao.com/dotstheme/)
+#### [View dotstheme Boilerplate &rarr;](https://dotstheme.tickmao.com/)
 
 ![1](https://ae01.alicdn.com/kf/H74dae26854d14a7db7dbc7e5fd2b3505t.jpg)
 
@@ -212,4 +212,4 @@ google-ID: '' #Format: UA-xxxxxx-xx
 
 DotsTheme ©[Tickmao](https://www.tickmao.com), Released under the MIT License.
 
-Blog @[Tickmao](https://www.tickmao.com) · GitHub @[Tickmao](https://github.com/tickmao) · Twitter @[Tickmao]
+Blog @[Tickmao](https://blog.tickmao.com) · GitHub @[Tickmao](https://github.com/tickmao) · Twitter @[Tickmao]
